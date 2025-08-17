@@ -18,9 +18,9 @@ Each pixel has three main color components: **Red, Green, and Blue (RGB)**. By c
 
 **Example:**
 ``
-RGB(255, 0, 0) → Red
-RGB(0, 255, 0) → Green
-RGB(0, 0, 255) → Blue
+``RGB(255, 0, 0) → Red``
+``RGB(0, 255, 0) → Green``
+``RGB(0, 0, 255) → Blue
 ``
 ## Fun Facts About Pixels
 
