@@ -17,11 +17,11 @@ Think of a pixel like a **tile in a mosaic**. One tile alone doesn’t show the 
 Each pixel has three main color components: **Red, Green, and Blue (RGB)**. By combining these colors at different intensities, a pixel can represent millions of colors.
 
 **Example:**
-
+``
 RGB(255, 0, 0) → Red
 RGB(0, 255, 0) → Green
 RGB(0, 0, 255) → Blue
-
+``
 ## Fun Facts About Pixels
 
 - **Not All Pixels Are Square:** While most screens use square pixels, some display technologies use rectangular or hexagonal layouts.  
